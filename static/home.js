@@ -28,7 +28,7 @@ header_login.addEventListener('click',function(){
     location.href='/admin'
 })
 
-
+console.log('新分支的打印')
 
 //给继续阅读全文挂在监听器
 article_continue.addEventListener('click', function () {
